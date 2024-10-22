@@ -101,29 +101,19 @@ en: &DEFAULT_EN
       - name: "Noah Gertsch"
         role: "CEO"
         image: assets/img/team/Noah.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+
+      - name: "Dominic Winterleiner"
+        role: "CIO"
+        image: assets/img/team/Dominic.jpg
+
+      - name: "Kristian Heuberger"
+        role: "CFO"
+        image: assets/img/team/Kristian.jpg
+
+      - name: "Michele Schiavone"
+        role: "CMO"
+        image: assets/img/team/Michele.jpg
+
 
   contact:
     title: "Contact Us"
