@@ -102,9 +102,9 @@ en: &DEFAULT_EN
         role: "CEO"
         image: assets/img/team/Noah.jpg
 
-      - name: "Dominic Winterleiner"
+      - name: "Dominik Winterleiner"
         role: "CIO"
-        image: assets/img/team/Dominic.jpg
+        image: assets/img/team/Dominik.jpg
 
       - name: "Kristian Heuberger"
         role: "CFO"
